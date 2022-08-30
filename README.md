@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kunimutt/qr-code-challenge)
-- Live Site URL: [Add live site URL here](https://kunimutt.github.io/qr-code-challenge/)
+- Solution URL: [https://github.com/Kunimutt/qr-code-challenge](https://github.com/Kunimutt/qr-code-challenge)
+- Live Site URL: [https://kunimutt.github.io/qr-code-challenge/](https://kunimutt.github.io/qr-code-challenge/)
 
 ## My process
 
@@ -46,7 +46,7 @@ In this project I learned how to center an element, both horisontally and vertic
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/kepowob) - A great YouTube channel for everything CSS with many tutorials and explainations.
+- [Kevin Powell](https://www.youtube.com/kepowob) - A great YouTube channel for everything CSS with many tutorials and explainations.
 
 ## Author
 
