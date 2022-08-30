@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](/design/Skärmavbild 2022-08-16 kl. 16.23.54.jpg)
+![screenshot of solution](https://github.com/Kunimutt/qr-code-challenge/blob/main/design/Ska%CC%88rmavbild%202022-08-16%20kl.%2016.23.54.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
