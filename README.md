@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/Kunimutt/qr-code-challenge](https://github.com/Kunimutt/qr-code-challenge)
-- Live Site URL: [https://kunimutt.github.io/qr-code-challenge/](https://kunimutt.github.io/qr-code-challenge/)
+- Solution URL: [https://github.com/moa-haldorson/fem-qr-code-challenge](https://github.com/moa-haldorson/fem-qr-code-challenge)
+- Live Site URL: [https://moa-haldorson.github.io/fem-qr-code-challenge/](https://moa-haldorson.github.io/fem-qr-code-challenge/)
 
 ## My process
 
