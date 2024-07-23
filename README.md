@@ -50,4 +50,4 @@ In this project I learned how to center an element, both horisontally and vertic
 
 ## Author
 
-- Frontend Mentor - [@Kunimutt](https://www.frontendmentor.io/profile/Kunimutt)
+- Frontend Mentor - [@moa-haldorson](https://www.frontendmentor.io/profile/moa-haldorson)
